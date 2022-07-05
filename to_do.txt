@@ -4,5 +4,5 @@ Day 1
 -Git installation&config
 -Create repo
 -Basic cmds
--How to Create&manage branches
+-How to Create&Manage branches
 
