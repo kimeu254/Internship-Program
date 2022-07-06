@@ -12,3 +12,15 @@ $ git branch  (confirms creation of branch)
 
 *Push branch to Github
 $ git push origin <branchname>
+
+
+*Rebasing
+-Edit previous commit message
+-Combine multiple commits to one
+-Delete/revert commits (unnecessary ones)
+
+*Rebasing commits against a branch
+$ git rebase --interactive <other branchname>
+
+*Rebasing commits against a point in time
+$ git rebase --interactive HEAD~7
