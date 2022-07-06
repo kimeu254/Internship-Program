@@ -1,8 +1,0 @@
-Day 1
-
--Introduction to Git
--Git installation&config
--Create repo
--Basic cmds
--How to Create&Manage branches
-
