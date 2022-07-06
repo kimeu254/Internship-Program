@@ -24,3 +24,14 @@ $ git rebase --interactive <other branchname>
 
 *Rebasing commits against a point in time
 $ git rebase --interactive HEAD~7
+
+*Github ations 
+-CI/CD platform that allows automation of build, test and deployment pipeline.
+-It allows creation of workflows that build&test every PR to your repo, or deploy merged PR to production.
+
+*Components of Github actions
+~Workflows-> it is a configurable automated process that will run one or more jobs.
+~Events-> it is a specific activity in a repo that triggers workflow run.
+~Jobs-> is a set of steps in a workflow that can execute on the same runner.
+~Actions-> is a custom application for Github actions that performs a complex but frequent repeated task.
+~Runners-> is a server that runs your workflows when triggered.
