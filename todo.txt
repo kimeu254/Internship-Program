@@ -1,0 +1,11 @@
+Day 2
+
+#Version Control
+
+-Merging, rebasing & stashing
+-Creating, reviewing & Merging pull requests(PR)
+-Github actions
+
+*Creating a new branch 
+$ git checkout -b <branchname>
+$ git branch  (confirms creation of branch)
