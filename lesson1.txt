@@ -1,0 +1,15 @@
+Day 1
+
+-Introduction to Git
+-Git installation&config
+-Create repo
+-Basic cmds
+-How to Create&Manage branches
+
+*Basic cmds
+$ git init 
+$ git add .
+$ git commit -m "message"
+$ git remote add origin <address>
+$ git branch -M main
+$ git push -u origin main

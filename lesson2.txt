@@ -9,3 +9,6 @@ Day 2
 *Creating a new branch 
 $ git checkout -b <branchname>
 $ git branch  (confirms creation of branch)
+
+*Push branch to Github
+$ git push origin <branchname>
