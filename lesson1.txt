@@ -13,3 +13,9 @@ $ git commit -m "message"
 $ git remote add origin <address>
 $ git branch -M main
 $ git push -u origin main
+
+*Renaming
+$ git fetch origin main:tmp
+$ git rebase tmp
+$ git push origin HEAD:main
+$ git branch -D tmp
