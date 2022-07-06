@@ -22,3 +22,5 @@ $ git push origin <branchname>
 *Rebasing commits against a branch
 $ git rebase --interactive <other branchname>
 
+*Rebasing commits against a point in time
+$ git rebase --interactive HEAD~7
