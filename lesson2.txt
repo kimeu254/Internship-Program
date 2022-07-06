@@ -18,3 +18,7 @@ $ git push origin <branchname>
 -Edit previous commit message
 -Combine multiple commits to one
 -Delete/revert commits (unnecessary ones)
+
+*Rebasing commits against a branch
+$ git rebase --interactive <other branchname>
+
