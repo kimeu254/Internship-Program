@@ -1,0 +1,10 @@
+Day 3
+
+#POSTGRES/SQL
+
+Download & install postgres on windows/macOS/linux
+
+
+#MySQL
+
+Download & install MySQL
