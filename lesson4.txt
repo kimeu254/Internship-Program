@@ -1,0 +1,8 @@
+Day 4
+
+#PostgresSQL/MySQL training
+
+*Creating SCHEMAS
+*Selecting databases(connecting to database)
+*Creating & dropping databases
+
