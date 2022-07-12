@@ -1,0 +1,14 @@
+Day 5
+
+#PostgresSQL/MySQL training
+
+Create Tables
+- AUTO_INCREMENT
+- Rename Tables
+- Alter Tables
+- Drop Columns
+- Add Columns
+- Drop Tables
+- Temporary Tables
+- Truncate Tables
+- Generated Columns
