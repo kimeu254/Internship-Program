@@ -1,0 +1,9 @@
+Day 11
+
+#JavaScript
+
+- Javascript Basics - Variables, functions, arrays and objects
+- Built-in JavaScript Events
+- Custom Events in JavaScript
+- JavaScript Promises.
+- Javascript OOP
