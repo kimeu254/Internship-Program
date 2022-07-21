@@ -1,0 +1,10 @@
+Day 12
+
+#JS Webpack 
+
+- What is Webpack
+- How to install and configure Webpack
+- Webpack watch
+- Hot module replacement
+- Development server
+- Loaders
