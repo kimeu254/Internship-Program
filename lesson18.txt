@@ -1,0 +1,7 @@
+Day 18
+
+#Vuejs lesson 2
+
+-Template Syntax
+-Computed Properties and Watchers Getters
+-Class and Style Bindings
