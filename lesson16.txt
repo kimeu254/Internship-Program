@@ -1,0 +1,9 @@
+Day 16
+
+#Tailwind CSS
+
+- Installation and getting started
+ - Core concepts ( Utility-first, responsive design, pseudo-class Variant, functions & directives)
+ - Customization (Theme, breakpoints, colors)
+ - Hover, Focus and other states
+ - Other Features
