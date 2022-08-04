@@ -1,0 +1,9 @@
+Day 21
+
+#Vuejs day5
+
+-Custom events
+
+-Content distribution
+
+-Dynamic components
