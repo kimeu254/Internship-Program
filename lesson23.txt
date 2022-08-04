@@ -1,0 +1,9 @@
+Day 23
+
+#Vuejs Final
+
+-State Management (Vuex)
+
+-Routing (Vue Router)
+
+-Unit Testing
