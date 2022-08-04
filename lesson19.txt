@@ -1,0 +1,11 @@
+Day 19
+
+#Vuejs Day3
+
+-Conditional Rendering
+
+-List Rendering
+
+-Event Handling
+
+-Form Input Bindings
